@@ -12,7 +12,9 @@ public class Checker extends JFrame{
     private JCheckBox cSoftDrinks;
     private JCheckBox cTea;
     private JCheckBox cSundae;
+
     private JButton btnOrder;
+
     private JRadioButton rbNone;
     private JRadioButton rb5;
     private JRadioButton rb10;

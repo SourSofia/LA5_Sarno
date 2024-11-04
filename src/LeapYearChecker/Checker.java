@@ -10,7 +10,6 @@ public class Checker extends JFrame{
     private JPanel pMain;
 
     Checker(){
-
         checkYearButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
